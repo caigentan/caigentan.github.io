@@ -26,5 +26,5 @@ Recent News
 
 Publications
 ------
-* SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection
-  Zhengyi Liu; **Yacheng Tan**; Qian He; Yun Xiao [pdf](https://ieeexplore.ieee.org/document/9611276),[code](https://github.com/caigentan/SwinNet)
+* SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection  
+  Zhengyi Liu; **Yacheng Tan**; Qian He; Yun Xiao [pdf](https://ieeexplore.ieee.org/document/9611276),[code](https://github.com/caigentan/SwinNet)  
