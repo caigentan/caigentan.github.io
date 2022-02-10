@@ -16,13 +16,13 @@ My research interests mainly lie in RGBD Saliency Object Detection, Crowd Counti
 
 Recent News
 ======
-02 / 2022：One paper on RGBD Saliency Object Detection is submitted to neurocomputing.
-11 / 2021: I’m awarded as Excellent Postgraduate Model of Anhui University.
-10 / 2021: I’m awarded The First Prize Scholarship.
-9 / 2021: One paper on RGBD Saliency Object Detection is accepted by TCSVT(IEEETransactions on Circuits and Systems for Video Technology).
-9 / 2021: Approved for the 2021 University Scientific Research Project of Anhui Province(10,000 RMB Expenses).
-8/ 2021: Complete an application for an invention patent.
-8 / 2021: Approved for the excellent doctoral and master thesis training program of the School of Computer Science and Technology of Anhui University(30,000 RMB Expenses).
+02 / 2022：One paper on RGBD Saliency Object Detection is submitted to neurocomputing.  
+11 / 2021: I’m awarded as Excellent Postgraduate Model of Anhui University.  
+10 / 2021: I’m awarded The First Prize Scholarship.  
+9 / 2021: One paper on RGBD Saliency Object Detection is accepted by TCSVT(IEEETransactions on Circuits and Systems for Video Technology).  
+9 / 2021: Approved for the 2021 University Scientific Research Project of Anhui Province(10,000 RMB Expenses).  
+8/ 2021: Complete an application for an invention patent.  
+8 / 2021: Approved for the excellent doctoral and master thesis training program of the School of Computer Science and Technology of Anhui University(30,000 RMB Expenses).  
 
 Publications
 ------
